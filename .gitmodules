@@ -1,0 +1,3 @@
+[submodule "src/enchant"]
+	path = src/enchant
+	url = git://github.com/wise9/enchant.js.git
